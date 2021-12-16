@@ -21,24 +21,7 @@ li{
     margin: 2px 0 1px 1px;
     /*list-style: none;*/
 }
-/*objective class*/
-.objective{
-    display: flex;
-    flex-direction: row;
-    margin: 70px 0 10px 30px;
-    align-items: center;
-}
-.objective h3{
-    flex-direction: row;
-    /*width: 20%;*/
-}
-.objective p{
-    flex-direction: row;
-    margin-left: 10px;
-    /*align-items: center;*/
-    /*justify-content: center;*/
-    /*padding-top: 2px;*/
-}
+
 /*qualifications*/
 .qualifications{
     display: flex;
