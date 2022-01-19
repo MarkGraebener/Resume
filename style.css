@@ -8,6 +8,15 @@
     border: 3px solid black;
     /*padding: 40px 30px;*/
     margin: 60px 0 40px 0;
-    height: 400px;
+    height: 350px;
     width: 400px;
+}
+
+
+ul{
+    padding: 0;
+}
+li{
+    list-style: none;
+
 }
