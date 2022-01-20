@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+.container{
+    margin: 30px;
+}
 /* header box */
 .box{
     border: 3px solid black;
@@ -11,12 +13,18 @@
     height: 350px;
     width: 400px;
 }
-
-
+/*left side*/
+.leftSide{
+    margin-right: 40px;
+}
 ul{
     padding: 0;
 }
 li{
     list-style: none;
+
+}
+.techSkills{
+    flex-wrap: wrap;
 
 }
